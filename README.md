@@ -10,3 +10,5 @@
 - [八段代码彻底掌握 Promise](https://github.com/WangYang-Rex/blog/issues/5)
 - [javascript进阶-惰性函数](https://github.com/WangYang-Rex/blog/issues/4)
 - [JavaScript中的property和attribute的区别](https://github.com/WangYang-Rex/blog/issues/2)
+
+### 更多请看issue
