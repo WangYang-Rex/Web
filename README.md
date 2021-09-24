@@ -1,7 +1,7 @@
 # blog
-博客地址：https://html-js.site 
+请访问博客地址：https://blog.html-js.site 
 
-为了加快国内的访问，目前已把静态博客转移到coding.net，欢迎访问
+这里只记录了一小部分的博客内容，更多请访问上面的博客地址
 
 这边现在用issue来记录技术道路上面的踩坑史~,如果对您有用就star一下，谢谢
 
